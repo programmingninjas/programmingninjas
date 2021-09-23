@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **programing.ninja0@gmail.com** or DM me on instagram
 
-- ⚡ Fun fact **I love anime (≧▽≦)**
+- ♥️ Other than coding **I love science,anime,writing... almost everything (≧▽≦)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
