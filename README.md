@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40">, I'm Ayan Khan</h1>
-<h3 align="center">Founder of ProgrammingNinjas</h3>
+<h3 align="center">A Programming Ninja<img src="http://www.clipartbest.com/cliparts/bcy/6n9/bcy6n9dxi.gif" width="69" height="69"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingninjas&label=Profile%20views&color=0e75b6&style=flat" alt="programmingninjas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingninjas&label=Profile%20views&color=0e75b6&style=flat" alt="programmingninjas" /></p>
 
 - 🌱 I’m currently learning **Python, A.I and M.L**
 
