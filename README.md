@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate **with other content creators.**
 
-- 📝 I regularly post content on [instagram.com/programmingninjas](instagram.com/programmingninjas)
+- 📝 I regularly post content on [instagram.com/programmingninjas](https://instagram.com/programmingninjas)
 
 - 📫 Reach me at **programing.ninja0@gmail.com** or DM me on instagram
 
