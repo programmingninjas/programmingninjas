@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingninjas&label=Profile%20views&color=0e75b6&style=flat" alt="programmingninjas" /></p>
 
-- 🌱 I’m currently learning **Python, A.I and M.L**
+- 🌱 I’m currently learning **React and three.js**
 
 - 👯 I’m looking to collaborate **with other content creators.**
 
