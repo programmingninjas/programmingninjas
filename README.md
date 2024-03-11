@@ -4,7 +4,7 @@
 
 [![@programmingninjas's Holopin board](https://holopin.me/programmingninjas)](https://holopin.io/@programmingninjas)
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **sab kuch**
 
 - 📫 Reach me at **programing.ninja0@gmail.com** or DM me on instagram @ayankhan.io
 
