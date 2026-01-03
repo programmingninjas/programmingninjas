@@ -22,8 +22,4 @@
 <a href="https://openai.com/" target="_blank"><img src="https://i.insider.com/63ef9e660270b1001984d9ce?width=2000&format=jpeg&auto=webp" alt="three.js" width="60" height="40"/> </a> 
 <br/>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmingninjas&show_icons=true&locale=en&layout=compact" alt="programmingninjas" /></p>
-<br/>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=programmingninjas&show_icons=true&locale=en" alt="programmingninjas" /></p>
-<p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://c.tenor.com/JOPiRS_GGggAAAAi/%E5%BF%8D%E8%80%85-%E6%8B%9C%E6%8B%9C.gif" alt="css3" width="266" height="263"/> </a></p>
